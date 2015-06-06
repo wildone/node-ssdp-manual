@@ -1,0 +1,44 @@
+{
+  "name": "node-ssdp-manual",
+  "description": "yet another node.js SSDP client and server library, overide all you want",
+  "keywords": [
+    "ssdp",
+    "multicast",
+    "device",
+    "upnp"
+  ],
+  "version": "0.0.1",
+  "author": {
+    "name": "Max Barrass",
+    "email": "max.barrass@gmail.com"
+  },
+  "maintainer": "Max Barrass <max.barrass@gmail.com>",
+  "dependencies": {},
+  "repository": {
+    "type": "git",
+    "url": "git@github.com:wildone/node-ssdp-manual.git"
+  },
+  "bugs": {
+    "url": "https://github.com/wildone/node-ssdp-manual/issues"
+  },
+  "main": "./index",
+  "engines": {
+    "node": ">=0.10.0"
+  },
+  "homepage": "https://github.com/wildone/node-ssdp-manual",
+  "_id": "node-ssdp-manual@0.0.1",
+  "_from": "node-ssdp-manual@*",
+  "_npmVersion": "1.3.24",
+  "_npmUser": {
+    "name": "wildone",
+    "email": "max.barrass@gmail.com"
+  },
+  "maintainers": [
+    {
+      "name": "Max Barrass",
+      "email": "max.barrass@gmail.com"
+    }
+  ],
+  "directories": {},
+  "license": "(MIT OR Apache-2.0)"
+}
